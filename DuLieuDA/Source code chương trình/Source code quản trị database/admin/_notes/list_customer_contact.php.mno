@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:country_name;datatype:string,name:id_country;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:name;datatype:string,name:id_contact_department;datatype:int" />
+	<infoitem key="UD_rscustomer_contact1" value="name:company_name;datatype:string,name:company_address;datatype:string,name:member_name;datatype:string,name:id_country;datatype:string,name:address;datatype:string,name:email;datatype:string,name:tel;datatype:string,name:fax;datatype:string,name:title;datatype:string,name:content;datatype:blob,name:id_contact_department;datatype:string,name:day_update;datatype:datetime,name:id_customer_contact;datatype:int" />
+	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_rs_department" value="name:id_contact_department;datatype:int,name:name;datatype:string" />
+</info>

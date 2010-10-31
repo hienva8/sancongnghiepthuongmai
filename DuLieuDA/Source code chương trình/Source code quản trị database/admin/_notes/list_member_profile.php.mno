@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsmember_profile1" value="name:mbpro_id_member;datatype:int,name:mbpro_avatar;datatype:string,name:mbpro_shortinfo;datatype:string,name:mbpro_shortinfo_EN;datatype:string,name:mbpro_day_update;datatype:datetime,name:mbpro_visible;datatype:int,name:id_member_profile;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsquestion" value="name:question_fullname;datatype:int,name:question_email;datatype:int,name:question_title;datatype:int,name:question_content;datatype:int,name:question_day_update;datatype:int,name:question_visible;datatype:int,name:id_question;datatype:int" />
+</info>

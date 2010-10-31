@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name;datatype:string,name:country_name_EN;datatype:string" />
+	<infoitem key="UD_rs_industry" value="name:id_industry;datatype:int,name:industry_name;datatype:string,name:industry_name_EN;datatype:string" />
+	<infoitem key="UD_rs_import_export" value="name:id_import_export;datatype:int,name:content;datatype:string,name:content_EN;datatype:string" />
+	<infoitem key="UD_rs_import_export1" value="name:id_import_export;datatype:int,name:content;datatype:string,name:content_EN;datatype:string" />
+	<infoitem key="UD_rs_capital_revenue" value="name:id_capital_revenue;datatype:int,name:cr_content;datatype:string,name:cr_content_EN;datatype:string" />
+	<infoitem key="UD_rs_capital_revenue1" value="name:id_capital_revenue;datatype:int,name:cr_content;datatype:string,name:cr_content_EN;datatype:string" />
+</info>

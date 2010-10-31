@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsadvertise" value="name:title;datatype:int,name:notes;datatype:int,name:notes_EN;datatype:int,name:file_image;datatype:int,name:fileflash;datatype:int,name:url;datatype:int,name:day_update;datatype:int,name:day_start;datatype:int,name:day_end;datatype:int,name:width;datatype:int,name:heigh;datatype:int,name:position;datatype:int,name:visible;datatype:int,name:id_advertise;datatype:int" />
+</info>

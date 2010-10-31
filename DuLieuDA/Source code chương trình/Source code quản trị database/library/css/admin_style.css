@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	margin:auto;
+	width:1000px;
+	color:#000000;
+	font-family:tahoma;
+	font-size: 12px;
+}
+#admin #admin_banner {
+	background:#333333;
+	color:#FFFFFF;
+	height:70px;
+	font-weight:900;
+	clear:both;
+	padding:10px 0px 5px 10px;	
+}
+
+#admin #admin_menu {
+	height:30px;
+	clear:both;
+}
+
+#admin #admin_content { 
+	height:auto;
+	text-align:left;
+	clear:both;
+	overflow:auto;
+}
+
+#admin #admin_footer {
+	background:#333333;
+	color:#FFFFFF;
+	height:50px;
+	padding:10px 0px 5px 10px;
+}
+#homepage1, #homepage2 {
+	border:1px solid #009966;
+	text-align:center;
+	width:998px;
+	vertical-align:top;
+}
+#homepage1{
+	height:30px;
+	line-height:30px;
+	color:#003399;
+	font-weight:900;
+}
+#homepage2{
+	height:470px;
+	margin-bottom:5px;
+}
+#homepage2 a:link,a:active, a:hover ,a:visited{
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration:none;
+}
+#homepage2 a:hover {
+	color:#0066FF;
+}
+.table{
+	vertical-align:top;
+	width:100%;
+	padding:10px 20px 20px 20px;
+}
+.td {
+	vertical-align:top;
+	border:1px solid #E9E9E9;
+	padding:0px 10px 10px 10px;
+	text-align: left;
+	width:210px;
+}
+.tr {
+	margin:20px 0px 20px 0px;
+}
+#homepage2 h1 {
+	font-weight:900;
+	font-size:14px;
+	border:2px ridge;
+	background-color:#FFFFCC;
+	color:#990000;
+	padding:2px;
+}
