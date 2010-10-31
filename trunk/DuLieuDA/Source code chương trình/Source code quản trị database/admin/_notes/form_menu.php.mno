@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsmenu" value="name:menu_name;datatype:int,name:menu_name_EN;datatype:int,name:url;datatype:int,name:outlink;datatype:int,name:notes;datatype:int,name:notes_EN;datatype:int,name:target;datatype:int,name:position;datatype:int,name:visible;datatype:int,name:id_menu;datatype:int" />
+</info>

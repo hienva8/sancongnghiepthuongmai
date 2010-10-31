@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_procat" value="name:id_procat;datatype:int,name:procat_name;datatype:string" />
+	<infoitem key="UD_rs_prosubcat1" value="name:id_prosubcat1;datatype:int,name:id_procat;datatype:int,name:prosubcat1_name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id_procat;datatype:int,name:procat_name;datatype:string" />
+	<infoitem key="UD_rsprosubcat2" value="name:prosubcat2_name;datatype:int,name:prosubcat2_name_EN;datatype:int,name:url;datatype:int,name:notes;datatype:int,name:notes_EN;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:day_update;datatype:int,name:visible;datatype:int,name:id_prosubcat2;datatype:int" />
+</info>

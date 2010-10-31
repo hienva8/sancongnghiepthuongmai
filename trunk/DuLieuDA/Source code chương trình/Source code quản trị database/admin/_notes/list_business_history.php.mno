@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:member_user;datatype:string,name:id_member;datatype:int" />
+	<infoitem key="UD_rsbusiness_history1" value="name:title;datatype:string,name:title_EN;datatype:string,name:short_decribe;datatype:string,name:short_decribe_EN;datatype:string,name:image_illustrate;datatype:string,name:day_update;datatype:datetime,name:id_member;datatype:string,name:visible;datatype:int,name:id_business_history;datatype:int,name:sort;datatype:int" />
+</info>
