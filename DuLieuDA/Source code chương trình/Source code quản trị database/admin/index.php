@@ -1,5 +1,6 @@
-<?php require_once('../Connections/ketnoi.php');
-?>
+<?php require_once('../Connections/ketnoi.php'); ?>
+<?php require_once('../Connections/ketnoi.php'); 
+require_once('../inc_language.php'); ?>
 <?php
 // Require the MXI classes
 require_once ('../includes/mxi/MXI.php');
@@ -10,7 +11,12 @@ require_once('../includes/tng/tNG.inc.php');
 // Make unified connection variable
 $conn_ketnoi = new KT_connection($ketnoi, $database_ketnoi);
 
-
+//Start Restrict Access To Page
+$restrict = new tNG_RestrictAccess($conn_ketnoi, "../");
+//Grand Levels: Level
+$restrict->addLevel("1");
+$restrict->Execute();
+//End Restrict Access To Page
 
 //Start Restrict Access To Page
 $restrict = new tNG_RestrictAccess($conn_ketnoi, "../");
