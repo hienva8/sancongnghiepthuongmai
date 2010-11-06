@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_products" value="name:product_name;datatype:string,name:product_image_illustrate;datatype:string,name:product_day_update;datatype:datetime" />
+</info>

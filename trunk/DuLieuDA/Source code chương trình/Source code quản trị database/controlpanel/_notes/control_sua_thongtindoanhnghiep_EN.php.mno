@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name_EN;datatype:string" />
+	<infoitem key="UD_rs_industry" value="name:id_industry;datatype:int,name:industry_name_EN;datatype:string" />
+	<infoitem key="UD_rs_capital_revenue" value="name:id_capital_revenue;datatype:int,name:cr_content_EN;datatype:string" />
+	<infoitem key="UD_rs_capital_revenue1" value="name:id_capital_revenue;datatype:int,name:cr_content_EN;datatype:string" />
+	<infoitem key="UD_rs_import_export" value="name:id_import_export;datatype:int,name:content_EN;datatype:string" />
+	<infoitem key="UD_rs_import_export1" value="name:id_import_export;datatype:int,name:content_EN;datatype:string" />
+	<infoitem key="UD_rscompany" value="name:company_name_EN;datatype:int,name:company_logo;datatype:int,name:company_id_country;datatype:int,name:company_postcode;datatype:int,name:company_address_EN;datatype:int,name:company_tell;datatype:int,name:company_mobile;datatype:int,name:company_email;datatype:int,name:company_fax;datatype:int,name:company_website;datatype:int,name:company_id_industry;datatype:int,name:company_name_represent;datatype:int,name:company_mansex_represent;datatype:int,name:company_manstatus_represent_EN;datatype:int,name:company_number_employees_EN;datatype:int,name:company_year_foundation;datatype:int,name:company_authorized_capital;datatype:int,name:company_yearly_revenue;datatype:int,name:company_export_rates;datatype:int,name:company_import_ratio;datatype:int,name:company_main_product_EN;datatype:int,name:company_main_markets_orther;datatype:int,name:company_shortinfo_EN;datatype:int,name:company_info_EN;datatype:int,name:company_day_update;datatype:int,name:company_id_member;datatype:int" />
+	<infoitem key="UD_rsmain_markets" value="name:id_main_markets;datatype:int,name:main_market_name_EN;datatype:string,name:id_company;datatype:int" />
+</info>

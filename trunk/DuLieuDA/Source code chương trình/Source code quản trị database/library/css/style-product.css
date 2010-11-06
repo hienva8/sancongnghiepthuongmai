@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+#info-pro,#info-pro #pro-lab{
+	float:left;
+	width:730px;
+}
+#info-pro #pro-lab{
+	margin-top:7px;
+	margin-bottom:15px;
+}
+#info-pro #pro-lab label{
+	font:bold 20px "Times New Roman";
+	margin-left:5px;
+	color:#FFFFFF;
+}
+#pro-lab label {
+	padding-left:40px;
+}
+#pro-lab {
+	background-image:url(../../interface/khung_8.jpg);
+}
+#info-pro #pro1{
+	float:left;
+	width:220px;
+	text-align:center;
+	vertical-align:middle;
+}
+#info-pro1{
+	float:left;
+	width:100%;
+	height:20px;
+	line-height:20px;
+	background:#FFFFFF url(../../interface/zoom_in.png) no-repeat 50px 1px;
+}
+#info-pro #pro1 img{
+	width:auto;
+	height:auto;
+	border:1px solid #99CCFF;
+	padding-left:5px;
+	margin:5px;
+}
+#info-pro1 label{
+	font:11px tahoma;
+	color:#999999;
+}
+#info-pro12{
+	float:left;
+	width:100%;
+	margin-top:10px;
+	height:100%;
+}
+#info-pro12 input{
+	margin:1px;
+}
+#info-pro #pro2{
+	float:left;
+	width:500px;
+	margin-left:10px;
+}
+#info-des{
+	float:left;
+	width:729px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+#info-des1{
+	margin-bottom:10px;
+}
+/*Table css*/
+#pro2 table{
+	width:500px;
+}
+
+.td1,#info-des1{
+	font: bold 15px tahoa;
+	color:#000000;
+	line-height:27px;
+	background:#F2F2F2;
+	border-bottom:1px solid #999999;
+}
+.td2,#info-cont{
+	line-height:27px;
+	color:#000000;
+	font:12px tahoma;
+}
+.td3{
+	line-height:27px;
+	color:#FF9900;
+	font:bold 12px "tahoma";
+}
+<!--end-->
+
+#info-cont{
+	height:25px;
+	line-height:25px;
+	padding-top:7px;
+	padding-bottom:7px;
+}
+
