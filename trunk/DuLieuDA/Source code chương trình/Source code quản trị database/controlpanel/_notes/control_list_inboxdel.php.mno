@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_products" value="name:id_inbox;datatype:int,name:box_contact_department;datatype:int,name:inbox_sender;datatype:string,name:inbox_subject;datatype:string,name:inbox_day_update;datatype:datetime,name:inbox_recycle_bin;datatype:int,name:name;datatype:string" />
-	<infoitem key="UD_rs_contact_department" value="name:id_contact_department;datatype:int,name:name;datatype:string,name:name_EN;datatype:string" />
-	<infoitem key="UD_rs_inbox" value="name:id_inbox;datatype:int,name:box_contact_department;datatype:int,name:inbox_sender;datatype:int,name:inbox_subject;datatype:string,name:inbox_day_update;datatype:datetime,name:inbox_recycle_bin;datatype:int,name:name;datatype:string" />
-	<infoitem key="UD_rs_company" value="name:company_name;datatype:string,name:company_name_EN;datatype:string" />
-</info>

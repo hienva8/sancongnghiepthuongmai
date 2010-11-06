@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name;datatype:string,name:country_image_illustrate;datatype:string" />
-	<infoitem key="UD_rsmember" value="name:member_user;datatype:int,name:member_name_EN;datatype:int,name:member_id_country;datatype:int,name:member_sex;datatype:int,name:member_address_EN;datatype:int,name:member_email;datatype:int,name:member_tell;datatype:int,name:member_fax;datatype:int,name:member_intro_short_EN;datatype:int,name:member_intro_EN;datatype:int,name:member_kind;datatype:int,name:member_day_update;datatype:int,name:id_member;datatype:int" />
-</info>

@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_products" value="name:id_services;datatype:int,name:id_member;datatype:int,name:id_services_procat;datatype:int,name:title;datatype:string,name:title_EN;datatype:string,name:image_illustrate;datatype:string,name:day_update;datatype:datetime,name:visible;datatype:int" />
-	<infoitem key="UD_rs_services" value="name:id_services;datatype:int,name:id_member;datatype:int,name:id_services_procat;datatype:int,name:title;datatype:string,name:title_EN;datatype:string,name:image_illustrate;datatype:string,name:day_update;datatype:datetime,name:visible;datatype:int" />
-</info>
