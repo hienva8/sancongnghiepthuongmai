@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_inbox" value="name:id_inbox;datatype:int,name:inbox_recipient;datatype:int,name:box_contact_department;datatype:int,name:inbox_name_product;datatype:string,name:inbox_sender;datatype:int,name:inbox_email;datatype:string,name:inbox_address;datatype:string,name:inbox_tel;datatype:string,name:inbox_subject;datatype:string,name:inbox_content;datatype:blob,name:inbox_day_update;datatype:datetime,name:inbox_sent;datatype:int,name:inbox_recycle_bin;datatype:int,name:name;datatype:string" />
-	<infoitem key="UD_rs_member" value="name:id_member;datatype:int,name:member_user;datatype:string" />
-	<infoitem key="UD_rs_member_sender" value="name:id_member;datatype:int,name:company_name;datatype:string,name:country_name;datatype:string,name:country_image_illustrate;datatype:string" />
-</info>

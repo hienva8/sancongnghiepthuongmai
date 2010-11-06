@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_rs_products" value="name:product_name;datatype:string,name:product_image_illustrate;datatype:string,name:product_day_update;datatype:datetime" />
-	<infoitem key="UD_rs_supportonline" value="name:id_supportonline;datatype:int,name:humanname_help;datatype:string,name:humansex_help;datatype:string,name:nickname;datatype:string,name:visible;datatype:int,name:name;datatype:string" />
-	<infoitem key="MM_css_include" value="../includes/skins/mxkollection3.css" />
-	<infoitem key="UD_rs_contact_department" value="name:id_contact_department;datatype:int,name:name;datatype:string,name:name_EN;datatype:string" />
-</info>
