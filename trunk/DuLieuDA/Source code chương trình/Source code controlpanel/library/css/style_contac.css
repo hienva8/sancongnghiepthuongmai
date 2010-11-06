@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+#contact-info{
+	width:730px;
+}
+#cen-contact{
+	float:left;
+	width:100%;
+}
+#contact-info fieldset{
+	border:1px solid #99CCFF;
+	margin:5px;
+	padding-left:10px;
+	height:470px;
+}
+#contact-info #cen-contact label{
+	float:left;
+	width:130px;
+	font-weight:900;
+	margin-top:10px;
+	color:#000000;
+}
+
+#contact-info #cen-contact input,#contact-info textarea{
+	border:1px dotted #99CCFF;
+	margin-top:3px;
+	background-color:#F7F7F7;
+	margin-top:10px;
+	width:550px;
+}
+
+#contact-info #cen-contact input{
+	height:25px;
+	line-height:25px;
+}
+#contact-info legend{
+	color:#003366;
+	font:bold 25px "Times New Roman";
+}
+#sp{
+	height:20px;
+	width:100%;
+	clear:left;
+	line-height:20px;
+}
+#sp label{
+	padding-left:450px;
+	font:13px "Times New Roman";
+	color:#FF0000;
+}
+#but-contact{
+	width:414px;
+	height:40px;;
+	margin-top:10px;
+	margin-bottom:8px;
+	float:left;
+	padding-left:250px;
+	
+}
+#but-contact input{
+	margin-left:20px;
+	height:30px;
+	width:100px;
+	float:left;
+}
+.khung_intro,intro1,intro2,.khung_contact,#contact1,#contact2,#contact2_1 ,#contact2_1 ul,#contact2_1 #title,#contact2_1 #content1,#contact2_2,#contact2_2_1,#contact2_2_2,#contact2_3,#contact2_3 li {
+ 	float:left;
+}
+.khung_intro,.khung_contact {
+	border:1px solid #99CCFF;
+	margin:3px 0px;
+}
+.khung_contact {
+	width:960px;
+}
+#intro1,#contact1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background:url(../../interface/khung_8.jpg) no-repeat;
+	background-color:#FF0000;
+	color:#FFFFFF;
+	font-size:13px;
+	font-weight:900;
+	line-height:25px;
+	padding-left:40px;
+	height:26px;
+	width:918px;
+	margin-bottom:2px;
+}
+#contact1 a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-size:13px !important;
+	font-weight:900;
+}
+#intro2#,contact2 {
+	width:948px;
+}
+#contact2_1 ul{
+	margin:65px auto 50px 10px;
+	padding-right:200px;
+	border-right:dashed 1px #990000;
+}
+#contact2_1 ul li{
+	height:30px;
+	line-height:30px;
+	font:bold 12px "Times New Roman", Times, serif;
+	list-style-type:none;
+}
+#contact2_1 #title{
+	font:bold 12px tahoma;
+	color:#0066FF;
+	margin:10px auto auto 5px;
+	line-height:25px;
+}
+#contact2_1 #content1,#contact2_1 #title {
+	width:98%;
+}
+.background_title {
+	background:#F9EEC8;
+	height:25px;
+}
+#contact2_1 {
+	width:540px;
+}
+#contact2_2 {
+	width:408px;
+}
+#contact2_2 h1 {
+	font: bold 15px Tahoma;
+	color:#003399;
+}
+#contact2_2 label{
+	font-size:13px;
+}
+#contact2_2_1 {
+	width:100px;
+}
+#intro2 {
+	padding:5px;
+}
+
+#contact2_2_2 {
+	width:300px;
+}
+#contac2 label{
+	text-align:left;
+}
+#contact2_3{
+	width:100%;
+	border:0px;
+}
+
+#contact2_3 li{
+	width:475px;
+	display:inline;
+}
+.khung_lienhethanhcong {
+	height:50px;
+	line-height:50px;
+	text-align:center;
+}
