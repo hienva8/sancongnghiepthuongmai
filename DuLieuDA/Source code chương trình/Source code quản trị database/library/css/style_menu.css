@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+#menu-container ul{
+	height:28px;
+	font:11px arial;
+	float:left;
+	width:755px;
+	padding-left:210px;
+	margin-top:68px;
+}
+
+#menu-container ul li{
+	display:inline-block;
+	float:left;
+	height:28px;
+	list-style:none;
+	overflow:hidden;
+}
+
+#menu-container ul li a,#menu-container ul li a:hover,#menu-container ul li a:visited{
+	text-decoration:none;
+	width:100px;
+}
+
+.normalMenu,.normalMenu:visited,.hoverMenu,.hoverMenu:visited,.selectedMenu,.selectedMenu:visited {
+	outline:none;
+	padding:8px 1px 8px 0px;
+	display:block;
+}
+
+.hoverMenu,.hoverMenu:visited,selectedMenu,.selectedMenu:visited {
+	margin-top:-29px;
+	background: url(../../Interface/khung_6_2.jpg) no-repeat top center;
+	color:yellow;
+	font-weight:bold;
+}
+
+.selectedMenu,.selectedMenu:visited {
+	margin:0px;
+	background: url(../../Interface/khung_6_2.jpg) no-repeat top center;
+	color:yellow;
+	font-weight:bold;
+}
+
+.normalMenu,.normalMenu:visited{
+	color:#FFFFFF;
+	background: url(../../interface/khung_6.jpg) no-repeat top center;
+	font-weight:bold;
+}
+
+	
