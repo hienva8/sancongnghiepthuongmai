@@ -1,0 +1,237 @@
+@charset "utf-8";
+/* CSS Document */
+
+#shop_info{
+	float:left;
+	width:960px;
+	margin-bottom:10px;
+}
+
+.logo{
+	width:100%;
+	float:left;
+	margin-top:7px;
+	margin-bottom:9px;
+}
+
+.style_help_3{
+	padding:7px 0px 5px 0px;
+	color:#FF0000;
+	font:12px tahoma;
+}
+.com_1,#end{
+	width:731px;
+}
+.com_1{
+	height:120px;
+}
+#logo-com{
+	float:left;
+	width:120px;
+	height:100px;
+}
+#logo-com img{
+	width:81px;
+	height:81px;
+	padding:5px;
+	border:1px solid #999999;
+}
+#com-2{
+	float:left;
+	width:610px;
+	height:100px;
+}
+#com-2 h1{
+	color: #FF6600;
+	font:20px "Times New Roman";
+	padding-bottom:7px;
+}
+#com-2 label{
+	color:#000000;
+	font:12px arial;
+	vertical-align:top;
+}
+
+#end img{
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.cates-gen{
+	clear:left;
+}
+.showcase{
+	width:731px;
+	margin-top:7px;
+}
+.showcase .cls_2{
+	clear:left;
+	border-bottom:1.9px dotted #99CCFF;
+	height:1px;
+}
+.f-more{
+	margin-bottom:40px;
+}
+.showcase .f-more a{
+	text-decoration:none;
+	color:#006699;
+	font:13px tamaho;
+	padding-left:655px;
+	line-height:15px;
+}
+.showcase .f-more a:hover{
+	text-decoration:underline;
+	color:#FF9900;
+}
+
+.showcase h1{
+	background:url(../../interface/khung_8.jpg) no-repeat;
+	border:0px;
+	width:683px;
+	font-size:15px;
+	line-height:25px;
+	color:#FFFFFF;
+	padding-left:47px;
+	clear:both;
+}
+.showcase .title_cungloai{
+	background:url(../../interface/bg_2.jpg) repeat-x;
+	border:0px;
+	width:720px;
+	font-size:15px !important;
+	font-weight:900;
+	line-height:25px;
+	color:#000000;
+	padding-left:10px;
+	clear:both;
+}
+
+
+/* sẽ thay bằng div khi có csdl*/
+.cates-gen fieldset{
+	border:1px solid #99CCFF;
+}
+.showcase table{
+	width:731;
+}
+.showcase td{
+	width:178px;
+}
+.showcase td:hover{
+	background-color:#F8F8F8;
+}
+.showcase td img{
+	border:1px solid #999999;
+	margin-top:7px;
+	margin-left:37px;
+}
+.showcase td a{
+	text-decoration:none;
+}
+.showcase td a h2{
+	color:#000000;
+	font:normal 12px tahoma;	
+	padding-left:25px;
+	padding-bottom:15px;
+	padding-top:5px;
+}
+.showcase td a:hover h2{
+	color:#FF9900;
+	text-decoration:underline;
+}
+.showcase .td{
+	border-bottom:dotted 1px #99CCFF;
+}
+.cates-gen fieldset td a,.cates-gen .number-1{
+	font:12px tahoma;
+	color:#000000;
+	text-decoration:none;
+	height:23px;
+	line-height:23px;
+	padding-left:4px;
+}
+/*
+.shop_right_center {
+	width:730px;
+	float:left;
+	margin-left:5px;
+	margin-top:7px;
+	padding:0px;
+	background-color:#FFFFFF;
+}
+.right_shop{
+	float:left;
+	width:224px;
+}
+#shop_help{
+	text-align:left;
+	padding-left:10px;
+	border-top:1px solid #BCD8EC;
+} */
+#private_shop{
+	background:url(../../interface/bg_1.jpg) repeat-x;
+	height:70px;
+	background:#0066CC;
+	clear:left;
+}
+#private_shop h1 {
+	font-size:10px;
+	padding-left:10px;
+	padding-top:5px;
+}
+
+#private_shop h1 {
+	color:#FFFFFF;
+}
+#shop_menu_bot {
+	height:20px;
+	padding-left:10px;
+	margin-bottom:1px;
+	color:#000000;
+	font-weight:900;
+	line-height:20px;
+	border:dotted 1px #003399;
+}
+#info_company,#info_title,#info1,#info1 label,#info2,#info2 label {
+	float:left;
+}
+#info_title {
+	width:100%;
+	text-align:center;
+	height:25px;
+	line-height:25px;
+	font-family:tahoma;
+	font-weight:900;
+	font-size:18px !important;
+	color:#003399;
+	text-transform:uppercase;
+}
+#info1 {
+	width:150px;
+}
+#info1 label {
+	text-align:right;
+	width:148px;
+	height:16px;
+	padding:3px 10px 3px 0px;
+	color:#990000;
+	font-weight:900;
+}
+#info2{
+	width:538px;
+}
+#info2 label{
+	text-align:left;
+	width:520px;
+	height:16px;
+	padding:3px 0px 3px 10px;
+}
+#info1 label,#info2 label{
+	border-bottom:1px dotted #99CCFF;
+}	
+.fieldset_khung {
+	border:ridge;
+	padding:10px 0px 10px 10px;
+	margin:5px 0px 5px 0px;
+	width:705px;
+}

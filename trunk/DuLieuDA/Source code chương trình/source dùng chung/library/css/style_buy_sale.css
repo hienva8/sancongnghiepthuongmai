@@ -1,0 +1,287 @@
+@charset "utf-8";
+/* CSS Document */
+.mem_login h1{
+	color: #0000CC;
+	font:12px arial;
+	padding-left:23px;
+	padding-bottom:5px;
+}
+#sig h2{
+	color:#999999;
+	font:10px Arial;
+	padding-left:20px;
+}
+#sig{
+	float:left;
+	width:150px;
+	margin-top:3px;
+}
+#sig_2{
+	margin-top:3px;
+	width:50px;
+	float:left;
+}
+#sig_2 a{
+	text-decoration:none;
+	color:#0000FF;
+	font:10px arial;
+}
+#sig_2 a:hover{
+	color:#FF9900;
+	text-decoration:underline;
+}
+#cls{
+	border-bottom:1px dotted #99CCFF;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:10px;
+	float:left;
+	width:200px;
+	height:1px;
+}
+.right-center{
+	width:731px;
+	float:left;
+	margin-left:5px;
+	margin-top:7px;
+	padding:0px;
+}
+/* menu bottom*/
+#menu_bot{
+	margin-bottom:1px;
+	height:28px;
+	width:960px;
+	clear:left;
+}
+#menu_bot ul{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	float:left;
+	width:960px;
+	background-color:#0066CC;
+}
+#menu_bot ul li{
+	display:inline;
+}
+
+#menu_bot ul a{
+	text-decoration:none;
+	width:87px;
+	float:left;
+	background-color:#0066CC;
+	color:#FFFFFF;
+	text-align:center;
+	line-height:28px;
+}
+
+#menu_bot ul a:hover{
+	color:#FFFF00;
+	text-decoration:underline;
+}
+
+#menu .line{
+float:left;
+border-right:1px;
+}
+<!-- the end-->
+
+.bor_1{
+	height:28px;
+}
+.cates fieldset{
+	border:1px solid #99CCFF;
+	margin-top:7px;
+}
+legend,.st_1 a,.st_1 b{
+	font:bold 16px/normal "Times New Roman";
+	color:#003366;
+}
+/* cái này sẽ sửa lại khi có csdl thế vào
+	Không dùng table */
+	
+fieldset table{
+	width:100%;
+}
+
+fieldset td a,.number{
+	font:13px;
+	color:#000000;
+	text-decoration:none;
+	height:25px;
+	line-height:25px;
+	padding-left:4px;
+}
+fieldset td a:hover{
+	text-decoration:underline;
+}
+<!-- the end-->
+.st_1 a,.st_1 b{
+	line-height:28px;
+	text-align:center;
+}
+.st_1 a{
+	text-decoration:none;
+}
+.st_1 a:hover{
+	color:#FF0000;
+}
+#cates{
+	clear:left;
+}
+#cates-info{
+	width:731px;
+	margin-top:7px;
+}
+#cates-info h1{
+	background:url(../../interface/khung_7.jpg) no-repeat;
+	font-size:16.5px;
+	font-weight:900;
+	line-height:31px;
+	padding-left:40px;
+}
+.box{
+	height:110px;
+	border-bottom:1px dotted #99CCFF;
+	padding-top:7px;
+}
+.box:hover{
+	background-color:#F0F8FF;
+}
+.check{
+	float:left;
+	width:20px;
+	padding-left:10px;
+}
+.box_2{
+	width:679px;
+	float:left;
+}
+.img{
+	float:left;
+	width:445px;
+	height:110px;
+}
+.img img{
+	width:100px;
+	height:100px;
+	margin-right:7px;
+}
+.img h2 a{
+	color:#0000FF;
+	text-decoration:none;
+}
+.c-info h2 a{
+	color:#333333;
+	margin:5px 0px 5px 0px;
+	text-decoration:none;
+	font-weight:normal;
+	font-size:11px !important;
+}
+.img h2 a:hover,.c-info h2 a:hover{
+	text-decoration:underline;
+	color:#FF9900;
+}
+.img label{
+	color:#000000;
+	font:13px arial;
+}
+.box_3{
+	margin-top:4px;
+	height:16px;
+}
+.c-info{
+	float:left;
+	width:234px;
+	height:110px;
+	text-align:right;
+}
+.box_3 h3{
+	color:#666666;
+	font-size:10px;
+	margin-right:20px;
+}
+.box_3 img{
+	float:right;
+	height:15px;
+	width:15px;
+	padding-right:3px;
+}
+.but{
+	margin-top:5px;
+	vertical-align:bottom;
+	padding-left:0px;
+}
+#contact_2{
+	border:1px solid #C8D4E4;
+	background:#E4EAF1 url(../../interface/bg_2.jpg) repeat-x;
+	margin-top:8px;
+	height:30px;
+	width:729px;
+}
+#contact_3{
+	width:80px;
+}
+#contact_3,#contact_but,#show-info{
+	float:left;
+	height:30px;
+}
+#contact_but{
+	width:430px;
+}
+#show-info {
+	width:200px;
+}
+
+#contact_3 img{
+	padding-left:15px;
+	padding-top:0px;
+	padding-right:7px;
+}
+#contact_3 h2{
+	padding:7px 0px 0px 10px;
+	font:15px "Times New Roman";
+	color:#666666;
+}
+#contact_but{
+	line-height:30px;
+}
+#show-info h2{
+	color:#000000;
+	float:right;
+	font:13px arial;
+	padding-right:10px;
+	padding-top:6px;
+	text-align:right;
+}
+#show-info img{
+	padding-right:12px;
+	padding-top:5px;
+}
+/* cái này sẽ thay đổi khi có csdl thế vào*/
+#num_page{
+	clear:left;
+	width:731px;
+	height:35px;
+}
+#page_1{
+	width:200px;
+	float:left;
+}
+#page_2{
+	width:331px;
+	float:left;
+	text-align:center;
+}
+#count_page{
+	float:left;
+	width:200px;
+}
+#page_1 h2,#page_2 h2,#count_page h2{
+	color:#000000;
+	font-size:12px;
+	height:35px;
+	line-height:35px;
+	padding-left:5px;	
+}
+
