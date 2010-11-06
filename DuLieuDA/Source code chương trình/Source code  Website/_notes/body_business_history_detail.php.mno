@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_business_history" value="name:title;datatype:string,name:title_EN;datatype:string,name:content;datatype:blob,name:content_EN;datatype:blob,name:day_update;datatype:datetime" />
+</info>

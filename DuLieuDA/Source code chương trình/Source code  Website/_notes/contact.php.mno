@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="includes/skins/mxkollection3.css" />
+	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_rs_contact_department" value="name:id_contact_department;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_rscustomer_contact" value="name:company_name;datatype:int,name:company_address;datatype:int,name:member_name;datatype:int,name:id_country;datatype:int,name:address;datatype:int,name:email;datatype:int,name:tel;datatype:int,name:fax;datatype:int,name:title;datatype:int,name:content;datatype:int,name:id_contact_department;datatype:int,name:day_update;datatype:int,name:id_customer_contact;datatype:int" />
+	<infoitem key="UD_rs_comp_member" value="name:company_name;datatype:string,name:company_address;datatype:string,name:member_name;datatype:string,name:member_id_country;datatype:int,name:member_address;datatype:string,name:member_email;datatype:string,name:member_tell;datatype:string,name:member_fax;datatype:string,name:id_country;datatype:int,name:country_name;datatype:string" />
+</info>

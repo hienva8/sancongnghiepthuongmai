@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_quangcao" value="name:id_ad;datatype:int,name:title_ad;datatype:string,name:descr_ad;datatype:blob,name:file_ad;datatype:string,name:url_ad;datatype:string,name:width_ad;datatype:string,name:height_ad;datatype:string,name:target_ad;datatype:string" />
+</info>

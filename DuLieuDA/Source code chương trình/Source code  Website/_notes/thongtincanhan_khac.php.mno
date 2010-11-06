@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_thongtinthanhvien" value="name:ID_thanhvien;datatype:int,name:hotenthanhvien;datatype:string,name:diachi;datatype:string,name:ngaysinh;datatype:datetime,name:gioitinh;datatype:string,name:email;datatype:string,name:dienthoai;datatype:string,name:chuthich;datatype:blob,name:username;datatype:string,name:ngaycapnhat;datatype:datetime,name:avatar;datatype:string,name:ID_quequan;datatype:int,name:tenquequan;datatype:string,name:tennghe;datatype:string,name:ID_nghe;datatype:int" />
+	<infoitem key="MM_css_include" value="css/TrangTri.css,includes/skins/mxkollection3.css" />
+</info>

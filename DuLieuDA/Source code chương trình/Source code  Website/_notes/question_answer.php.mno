@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="includes/skins/mxkollection3.css,library/css/style.css,library/css/dddropdownpanel.css" />
+	<infoitem key="UD_rs_answer" value="name:id_answer;datatype:int,name:answer_content;datatype:blob,name:answer_day_update;datatype:datetime,name:member_name;datatype:string,name:member_email;datatype:string" />
+	<infoitem key="UD_rs_question" value="name:id_question;datatype:int,name:question_fullname;datatype:string,name:question_email;datatype:string,name:question_title;datatype:string,name:question_content;datatype:blob,name:question_day_update;datatype:datetime,name:question_visible;datatype:int" />
+</info>

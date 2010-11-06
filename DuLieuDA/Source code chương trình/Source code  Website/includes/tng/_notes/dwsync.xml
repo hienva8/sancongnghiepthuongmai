@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="tNG.inc.php" server="C:/AppServ/www/industry/" local="129255723840000000" remote="129255723840000000" />
+<file name="tNG_config.inc.php" server="C:/AppServ/www/industry/" local="129272746980000000" remote="129272746980000000" />
+<file name="tNG.class.php" server="C:/AppServ/www/industry/" local="129246951020000000" remote="129246951020000000" />
+<file name="tNG_custom.class.php" server="C:/AppServ/www/industry/" local="129246951020000000" remote="129246951020000000" />
+<file name="tNG_delete.class.php" server="C:/AppServ/www/industry/" local="129246951020000000" remote="129246951020000000" />
+<file name="tNG_dispatcher.class.php" server="C:/AppServ/www/industry/" local="129246951020000000" remote="129246951020000000" />
+<file name="tNG_error.class.php" server="C:/AppServ/www/industry/" local="129246951020000000" remote="129246951020000000" />
+<file name="tNG_fields.class.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+<file name="tNG_functions.inc.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+<file name="tNG_import.class.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+<file name="tNG_insert.class.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+<file name="tNG_log.class.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+<file name="tNG_login.class.php" server="C:/AppServ/www/industry/" local="129251566000000000" remote="129251566000000000" />
+<file name="tNG_logoutTransaction.class.php" server="C:/AppServ/www/industry/" local="129251566000000000" remote="129251566000000000" />
+<file name="tNG_multiple.class.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+<file name="tNG_multipleDelete.class.php" server="C:/AppServ/www/industry/" local="129246951100000000" remote="129246951100000000" />
+<file name="tNG_multipleInsert.class.php" server="C:/AppServ/www/industry/" local="129246951100000000" remote="129246951100000000" />
+<file name="tNG_multipleUpdate.class.php" server="C:/AppServ/www/industry/" local="129246951100000000" remote="129246951100000000" />
+<file name="tNG_update.class.php" server="C:/AppServ/www/industry/" local="129246951040000000" remote="129246951040000000" />
+</dwsync>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_folder" value="name:id_fd;datatype:int,name:name_fd;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="../library/CSS/style.css,../library/CSS/style_menu.css,../library/CSS/style_buy_sale.css,../library/CSS/style-slide.css" />
+</info>

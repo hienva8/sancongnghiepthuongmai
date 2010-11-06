@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rssaved_search" value="name:idmem_sv;datatype:int,name:recordid_sv;datatype:int,name:loaitin;datatype:int,name:id_sv;datatype:int" />
+</info>

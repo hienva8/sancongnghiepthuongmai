@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_question" value="name:id_question;datatype:int,name:question_fullname;datatype:string,name:question_email;datatype:string,name:question_title;datatype:string,name:question_content;datatype:blob,name:question_day_update;datatype:datetime,name:question_visible;datatype:int" />
+	<infoitem key="MM_css_include" value="../includes/skins/mxkollection3.css" />
+</info>

@@ -1,0 +1,10 @@
+<?php
+  		mxi_includes_start("service_info_cat1.php");
+  		require(basename("service_info_cat1.php"));
+  		mxi_includes_end();
+?> 
+<?php
+  mxi_includes_start("service_info_servicecat.php");
+  require(basename("service_info_servicecat.php"));
+  mxi_includes_end();
+?>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_products" value="name:id_services;datatype:int,name:id_services_categories;datatype:int,name:id_member;datatype:int,name:title;datatype:string,name:image_illustrate;datatype:string,name:content;datatype:blob,name:view;datatype:int,name:day_update;datatype:datetime,name:country_name;datatype:string,name:view;datatype:int,name:svcat_name;datatype:string" />
+	<infoitem key="UD_rs_payment_methods_products" value="name:id_products;datatype:int,name:id_payment_methods_products;datatype:int,name:methods_name;datatype:string,name:methods_name_EN;datatype:string" />
+	<infoitem key="MM_css_include" value="../library/CSS/style.css,../library/CSS/style_menu.css,../library/CSS/style_buy_sale.css,../library/CSS/style-slide.css" />
+	<infoitem key="UD_rs_images_library" value="name:il_image;datatype:string" />
+	<infoitem key="UD_rs_products_cungloai" value="name:id_services;datatype:int,name:id_services_categories;datatype:int,name:id_member;datatype:int,name:title;datatype:string,name:image_illustrate;datatype:string" />
+</info>

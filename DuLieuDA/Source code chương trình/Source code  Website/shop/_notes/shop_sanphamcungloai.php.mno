@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_products_cungloai" value="name:id_products;datatype:int,name:id_procat;datatype:int,name:id_member;datatype:int,name:product_name;datatype:string,name:product_name_EN;datatype:string,name:product_image_illustrate;datatype:string" />
+	<infoitem key="UD_rs_member" value="name:member_kind;datatype:string" />
+	<infoitem key="UD_rs_products" value="name:id_products;datatype:int,name:id_member;datatype:int,name:country_name;datatype:string,name:country_name_EN;datatype:string,name:product_name;datatype:string,name:product_name_EN;datatype:string,name:product_short_describe;datatype:string,name:product_short_describe_EN;datatype:string,name:product_content;datatype:blob,name:product_content_EN;datatype:blob,name:product_image_illustrate;datatype:string,name:product_reference_price;datatype:string,name:product_rates;datatype:string,name:product_unit;datatype:string,name:product_unit_EN;datatype:string,name:product_payment_methods_orther;datatype:string,name:product_payment_methods_orther_EN;datatype:string,name:product_view;datatype:int" />
+	<infoitem key="UD_rs_payment_methods_products" value="name:id_products;datatype:int,name:id_payment_methods_products;datatype:int,name:methods_name;datatype:string,name:methods_name_EN;datatype:string" />
+	<infoitem key="UD_rs_images_library" value="name:il_image;datatype:string" />
+</info>

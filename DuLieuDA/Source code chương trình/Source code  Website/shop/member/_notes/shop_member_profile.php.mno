@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_company" value="name:id_member_profile;datatype:int,name:mbpro_avatar;datatype:string,name:mbpro_year_active;datatype:string,name:mbpro_authorized_capital;datatype:string,name:mbpro_yearly_revenue;datatype:string,name:mbpro_export_rates;datatype:string,name:mbpro_import_ratio;datatype:string,name:mbpro_main_product;datatype:string,name:mbpro_main_markets_orther;datatype:string,name:mbpro_shortinfo;datatype:string,name:mbpro_info;datatype:blob,name:mbpro_day_update;datatype:datetime,name:member_name;datatype:string,name:member_sex;datatype:string,name:member_email;datatype:string,name:member_address;datatype:string,name:member_tell;datatype:string,name:member_fax;datatype:string,name:member_intro;datatype:blob,name:country_name;datatype:string,name:industry_name;datatype:string" />
+</info>
