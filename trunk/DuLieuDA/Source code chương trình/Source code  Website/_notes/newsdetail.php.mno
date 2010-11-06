@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_R_tintuc" value="name:tentheloai;datatype:string,name:tentheloai_EN;datatype:string,name:tentheloaitin;datatype:string,name:tentheloaitin_EN;datatype:string,name:tentheloaitincon;datatype:string,name:tentheloaitincon_EN;datatype:string,name:tieudetin;datatype:string,name:tieudetin_EN;datatype:string,name:ID_tintuc;datatype:int,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:trichdantin_EN;datatype:blob,name:noidungtin;datatype:blob,name:noidungtin_EN;datatype:blob,name:solandoc;datatype:int,name:ID_theloaitincon;datatype:int,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int" />
+	<infoitem key="MM_css_include" value="css/trangtri.css" />
+	<infoitem key="UD_R_tintuckhaccap1" value="name:tentheloai;datatype:string,name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:ngaydangtin;datatype:datetime,name:cotinnong;datatype:int,name:ID_theloai;datatype:int" />
+	<infoitem key="UD_rs_tintckhaccap3" value="name:ID_theloaitincon;datatype:int,name:tentheloaitincon;datatype:string,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int,name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:ngaydangtin;datatype:datetime" />
+	<infoitem key="UD_R_xemphanhoi" value="name:ID_comment;datatype:int,name:hoten;datatype:string,name:email;datatype:string,name:noidung;datatype:blob,name:ID_tintuc;datatype:int,name:ID_thanhvien;datatype:int,name:ngaydang;datatype:datetime,name:filedinhkem;datatype:string,name:kiemduyet;datatype:int,name:sapxep;datatype:int" />
+	<infoitem key="UD_R_tintckhaccap2" value="name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string,name:tentheloaitin_EN;datatype:string,name:ID_theloai;datatype:int,name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:tieudetin_EN;datatype:string,name:ngaydangtin;datatype:datetime" />
+</info>

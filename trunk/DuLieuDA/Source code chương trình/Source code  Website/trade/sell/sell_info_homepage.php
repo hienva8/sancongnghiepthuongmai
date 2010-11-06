@@ -1,0 +1,10 @@
+<?php
+  		mxi_includes_start("sell_info_cat.php");
+  		require(basename("sell_info_cat.php"));
+  		mxi_includes_end();
+?> 
+<?php
+  mxi_includes_start("sell_info_all.php");
+  require(basename("sell_info_all.php"));
+  mxi_includes_end();
+?>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_R_newssubcategory" value="name:ID_tintuc;datatype:int,name:tentheloaitin;datatype:string,name:tentheloai;datatype:string,name:tieudetin;datatype:string,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int" />
+	<infoitem key="UD_R_newssubsubcategory" value="name:ID_tintuc;datatype:int,name:tentheloaitin;datatype:string,name:tentheloaitin_EN;datatype:string,name:tentheloai;datatype:string,name:tentheloai_EN;datatype:string,name:tieudetin;datatype:string,name:tieudetin_EN;datatype:string,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:trichdantin_EN;datatype:blob,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int,name:tentheloaitincon;datatype:string,name:tentheloaitincon_EN;datatype:string,name:ID_theloaitincon;datatype:int" />
+</info>

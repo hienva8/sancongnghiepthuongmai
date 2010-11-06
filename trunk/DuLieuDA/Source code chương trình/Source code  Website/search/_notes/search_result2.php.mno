@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_search" value="name:id_products;datatype:int,name:id_country;datatype:int,name:id_member;datatype:int,name:product_name;datatype:string,name:product_short_describe;datatype:string,name:product_image_illustrate;datatype:string,name:member_kind;datatype:string,name:country_name;datatype:string,name:company_name;datatype:string" />
+</info>

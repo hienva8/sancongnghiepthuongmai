@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_R_theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:tentheloai_EN;datatype:string,name:sapxep;datatype:int,name:visible;datatype:int,name:linkngoai;datatype:int" />
+	<infoitem key="UD_r_theloaitin" value="name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string,name:tentheloaitin_EN;datatype:string,name:sapxep;datatype:int,name:ID_theloai;datatype:int,name:linkngoai;datatype:int" />
+	<infoitem key="UD_rs_theloaitincon" value="name:ID_theloaitincon;datatype:int,name:tentheloaitincon;datatype:string,name:tentheloaitincon_EN;datatype:string,name:ID_theloai;datatype:int,name:ID_theloaitin;datatype:int,name:tentheloaitincon_EN;datatype:string" />
+</info>

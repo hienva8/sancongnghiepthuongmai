@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_master1theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:tentheloai_EN;datatype:string,name:visible;datatype:int,name:linkngoai;datatype:int" />
+	<infoitem key="UD_detail2tintuc" value="name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:tieudetin_EN;datatype:string,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:trichdantin_EN;datatype:blob,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int,name:ID_theloaitincon;datatype:int" />
+	<infoitem key="UD_master3theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:sapxep;datatype:int,name:url;datatype:string,name:tip;datatype:string,name:ngaycapnhat;datatype:datetime,name:visible;datatype:int,name:visiblemenu;datatype:int,name:target;datatype:string,name:linkngoai;datatype:int,name:conhomtin;datatype:int,name:imagead;datatype:string,name:imageurl;datatype:string,name:imagevisible;datatype:int,name:tentheloai_EN;datatype:string,name:tip_EN;datatype:string,name:vitri;datatype:int" />
+	<infoitem key="UD_detail4theloaitin" value="name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string,name:sapxep;datatype:int,name:diachi;datatype:string,name:ngaycapnhat;datatype:datetime,name:ID_theloai;datatype:int,name:visible2;datatype:int,name:visiblemenu2;datatype:int,name:chuthich;datatype:string,name:target;datatype:string,name:linkngoai;datatype:int,name:conhomtin2;datatype:int,name:url;datatype:string,name:tentheloaitin_EN;datatype:string" />
+	<infoitem key="UD_master2theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:visible;datatype:int,name:tentheloai_EN;datatype:string" />
+	<infoitem key="UD_master4theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:linkngoai;datatype:int,name:tentheloai_EN;datatype:string" />
+	<infoitem key="UD_detail5theloaitin" value="name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string,name:ID_theloai;datatype:int,name:tentheloaitin_EN;datatype:string" />
+</info>

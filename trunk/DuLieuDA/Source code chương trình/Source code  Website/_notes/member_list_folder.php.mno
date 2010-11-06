@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsfolder_fd1" value="name:name_fd;datatype:string,name:update_day;datatype:datetime,name:id_fd;datatype:int,name:idmem_fd;datatype:int" />
+	<infoitem key="MM_css_include" value="" />
+</info>

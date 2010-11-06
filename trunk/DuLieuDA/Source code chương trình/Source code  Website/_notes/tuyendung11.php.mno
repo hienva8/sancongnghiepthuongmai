@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_tuyendung" value="name:ID_tuyendung;datatype:int,name:tieudetuyendung;datatype:string,name:trichdan;datatype:blob,name:ngaycapnhat;datatype:datetime,name:solandoc;datatype:int,name:hinhtrichdan;datatype:string,name:trichdan_EN;datatype:blob,name:noidung_EN;datatype:blob" />
+</info>

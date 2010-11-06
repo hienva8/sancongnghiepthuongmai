@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:tenbophanlienhe;datatype:string,name:ID_bophanlienhe;datatype:int" />
+	<infoitem key="UD_rs_bophanlienhe" value="name:ID_bophanlienhe;datatype:int,name:tenbophanlienhe;datatype:string" />
+	<infoitem key="UD_rslienhe" value="name:tennguoilienhe;datatype:int,name:email;datatype:int,name:diachi;datatype:int,name:dienthoai;datatype:int,name:noidunglienhe;datatype:int,name:ngaylienhe;datatype:int,name:ID_bophanlienhe;datatype:int,name:ID_lienhe;datatype:int" />
+</info>

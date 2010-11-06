@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_prosubcat" value="name:id_prosubcat3;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:id_prosubcat2;datatype:int,name:prosubcat3_name;datatype:string,name:prosubcat3_name_EN;datatype:string" />
+	<infoitem key="UD_rs_prosubcat2" value="name:id_prosubcat2;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:prosubcat2_name;datatype:string,name:prosubcat2_name_EN;datatype:string,name:procat_name;datatype:string,name:prosubcat1_name_EN;datatype:string,name:prosubcat1_name;datatype:string,name:prosubcat1_name_EN;datatype:string" />
+	<infoitem key="UD_rs_products" value="name:id_products;datatype:int" />
+	<infoitem key="UD_rs_prosubcat3" value="name:id_prosubcat3;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:id_prosubcat2;datatype:int,name:prosubcat3_name;datatype:string,name:prosubcat3_name_EN;datatype:string,name:procat_name;datatype:string,name:prosubcat1_name_EN;datatype:string,name:prosubcat1_name;datatype:string,name:prosubcat1_name_EN;datatype:string,name:prosubcat2_name;datatype:string,name:prosubcat2_name_EN;datatype:string" />
+</info>

@@ -1,0 +1,10 @@
+<?php
+  		mxi_includes_start("product_info_contain_subcat1.php");
+  		require(basename("product_info_contain_subcat1.php"));
+  		mxi_includes_end();
+?> 
+<?php
+  mxi_includes_start("product_info_contain_prosub1.php");
+  require(basename("product_info_contain_prosub1.php"));
+  mxi_includes_end();
+?>
