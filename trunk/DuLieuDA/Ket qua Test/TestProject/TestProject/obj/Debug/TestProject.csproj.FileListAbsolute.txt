@@ -1,0 +1,7 @@
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\WebTest1.webtest
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\TestProject.dll
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\LoadTest1.loadtest

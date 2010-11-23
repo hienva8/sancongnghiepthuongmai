@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7aa92887-3da8-463d-8cbf-a1f2dd17eed5" name="ASUS X82Q SERIES@ASUS 2010-11-23 20:52:28" runUser="ASUS\ASUS X82Q SERIES" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="fbd97c4f-250d-4688-9be5-4499f8f948ec">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestResults\ASUS X82Q SERIES_ASUS 2010-11-23 20_52_28" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Aborted">
+    <Counters total="3" executed="3" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="2" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2010-11-23T20:52:28.7968750+07:00" queuing="2010-11-23T20:52:36.7187500+07:00" start="2010-11-23T20:52:37.3125000+07:00" finish="2010-11-23T20:58:43.8593750+07:00" />
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\documents and settings\asus x82q series\my documents\visual studio 2008\projects\testproject\testproject\bin\debug\testproject.dll" id="24e109b5-ebac-7154-c0d0-91db5c99399f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="45859645-75e9-48e0-a137-08784e740a87" />
+      <TestMethod codeBase="C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\TestProject.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.UnitTest1, TestProject" name="TestMethod1" />
+    </UnitTest>
+    <ManualTest name="ManualTest1" storage="c:\documents and settings\asus x82q series\my documents\visual studio 2008\projects\testproject\testproject\manualtest1.mht" id="d1d76b62-4a88-4dbf-aff1-929550bbc0c1">
+      <Css projectStructure="" iteration="" />
+      <Description>To do: set description</Description>
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="5b4e56e3-a29a-4751-a764-fe3b9be30a7f" />
+    </ManualTest>
+    <WebTest name="WebTest1" storage="c:\documents and settings\asus x82q series\my documents\visual studio 2008\projects\testproject\testproject\webtest1.webtest" id="6dfc9c80-f2b9-44e3-8805-75ac50e55d1e" persistedWebTest="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPFdlYlRlc3QgTmFtZT0iV2ViVGVzdDEiIElkPSI2ZGZjOWM4MC1mMmI5LTQ0ZTMtODgwNS03NWFjNTBlNTVkMWUiIE93bmVyPSIiIFByaW9yaXR5PSIwIiBFbmFibGVkPSJUcnVlIiBDc3NQcm9qZWN0U3RydWN0dXJlPSIiIENzc0l0ZXJhdGlvbj0iIiBUaW1lb3V0PSIwIiBXb3JrSXRlbUlkcz0iIiB4bWxucz0iaHR0cDovL21pY3Jvc29mdC5jb20vc2NoZW1hcy9WaXN1YWxTdHVkaW8vVGVhbVRlc3QvMjAwNiIgRGVzY3JpcHRpb249IiIgQ3JlZGVudGlhbFVzZXJOYW1lPSIiIENyZWRlbnRpYWxQYXNzd29yZD0iIiBQcmVBdXRoZW50aWNhdGU9IlRydWUiIFByb3h5PSIiIFN0b3BPbkVycm9yPSJGYWxzZSIgLz4=">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a75e0209-fdcc-447c-aaec-bb27fc49e23f" />
+    </WebTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="24e109b5-ebac-7154-c0d0-91db5c99399f" executionId="45859645-75e9-48e0-a137-08784e740a87" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry isTransparent="false" testId="6dfc9c80-f2b9-44e3-8805-75ac50e55d1e" executionId="a75e0209-fdcc-447c-aaec-bb27fc49e23f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d1d76b62-4a88-4dbf-aff1-929550bbc0c1" executionId="5b4e56e3-a29a-4751-a764-fe3b9be30a7f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="45859645-75e9-48e0-a137-08784e740a87" testId="24e109b5-ebac-7154-c0d0-91db5c99399f" testName="TestMethod1" computerName="ASUS" duration="00:00:00.0252643" startTime="2010-11-23T20:52:37.4062500+07:00" endTime="2010-11-23T20:52:37.8593750+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="PassedButRunAborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <WebTestResult executionId="a75e0209-fdcc-447c-aaec-bb27fc49e23f" testId="6dfc9c80-f2b9-44e3-8805-75ac50e55d1e" testName="WebTest1" computerName="ASUS" duration="00:00:00" startTime="2010-11-23T20:52:37.9531250+07:00" endTime="2010-11-23T20:52:38.2656250+07:00" testType="4e7599fa-5ecb-43e9-a887-cd63cf72d207" outcome="PassedButRunAborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+      <ByteArrayCache nextHandle="0" />
+      <TestRunConfiguration name="Local Test Run" id="fbd97c4f-250d-4688-9be5-4499f8f948ec">
+        <Description>This is a default test run configuration for a local test run.</Description>
+        <Deployment runDeploymentRoot="C:\Documents and Settings\ASUS X82Q SERIES\My Documents\Visual Studio 2008\Projects\TestProject\TestResults\ASUS X82Q SERIES_ASUS 2010-11-23 20_52_28" />
+        <TestTypeSpecific>
+          <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207" />
+        </TestTypeSpecific>
+      </TestRunConfiguration>
+      <WebTestResultDetails>
+        <WebTestResultIterations>
+          <WebTestResultIteration iterationNumber="1" />
+        </WebTestResultIterations>
+      </WebTestResultDetails>
+    </WebTestResult>
+    <ManualTestResult executionId="5b4e56e3-a29a-4751-a764-fe3b9be30a7f" testId="d1d76b62-4a88-4dbf-aff1-929550bbc0c1" testName="ManualTest1" computerName="ASUS" duration="00:05:59.4531250" startTime="2010-11-23T20:52:38.2968750+07:00" endTime="2010-11-23T20:58:37.7500000+07:00" testType="7a24f8ff-85da-d664-ef44-83ff4743dae6" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" testFile="c:\documents and settings\asus x82q series\my documents\visual studio 2008\projects\testproject\testproject\manualtest1.mht">
+      <Output>
+        <ErrorInfo>
+          <Message>User aborted test run.</Message>
+        </ErrorInfo>
+      </Output>
+    </ManualTestResult>
+  </Results>
+</TestRun>
