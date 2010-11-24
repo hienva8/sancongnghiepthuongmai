@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsauction1" value="name:title;datatype:string,name:title_EN;datatype:string,name:day_update;datatype:datetime,name:visible;datatype:int,name:id_auction;datatype:int" />
+</info>

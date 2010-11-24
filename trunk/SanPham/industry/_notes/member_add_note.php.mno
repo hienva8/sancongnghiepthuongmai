@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_folder" value="name:id_fd;datatype:int,name:name_fd;datatype:string" />
+	<infoitem key="UD_rsnote_nt" value="name:idfd_nt;datatype:int,name:idmem_nt;datatype:int,name:title_nt;datatype:int,name:content_nt;datatype:int,name:postedon_nt;datatype:int,name:id_nt;datatype:int" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:tentheloai_EN;datatype:string,name:url;datatype:string,name:tip;datatype:string,name:tip_EN;datatype:string,name:linkngoai;datatype:int,name:imagead;datatype:string,name:vitri;datatype:int" />
+	<infoitem key="MM_css_include" value="css/trangtri.css" />
+	<infoitem key="UD_Recordset1" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:url;datatype:string,name:tip;datatype:string,name:linkngoai;datatype:int,name:imagead;datatype:string,name:vitri;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsbusiness_history" value="name:title;datatype:int,name:title_EN;datatype:int,name:short_describe;datatype:int,name:short_describe_EN;datatype:int,name:content;datatype:int,name:content_EN;datatype:int,name:image_illustrate;datatype:int,name:type;datatype:int,name:day_update;datatype:int,name:visible;datatype:int,name:id_member;datatype:int,name:id_business_history;datatype:int" />
+</info>

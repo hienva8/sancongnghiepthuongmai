@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:company_name;datatype:string,name:id_company;datatype:int" />
+	<infoitem key="UD_rs_contact_department" value="name:id_contact_department;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_rs_position" value="name:id_position;datatype:int,name:position_name;datatype:string" />
+	<infoitem key="UD_rs_member_contact" value="name:id_member;datatype:int,name:member_id_country;datatype:int,name:member_name_EN;datatype:string,name:member_sex;datatype:string,name:member_email;datatype:string,name:member_address;datatype:string,name:member_tell;datatype:string,name:member_fax;datatype:string,name:member_kind;datatype:string" />
+	<infoitem key="UD_rscontact_information" value="name:ct_info_company;datatype:int,name:ct_info_fullname;datatype:int,name:ct_info_department;datatype:int,name:ct_info_position;datatype:int,name:ct_info_address;datatype:int,name:ct_info_email;datatype:int,name:ct_info_tel;datatype:int,name:ct_info_fax;datatype:int,name:ct_info_mobile;datatype:int,name:ct_info_website;datatype:int,name:ct_info_id_member;datatype:int,name:id_contact_information;datatype:int" />
+	<infoitem key="UD_rs_company" value="name:company_name_EN;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsbusiness_form1" value="name:bf_name;datatype:string,name:bf_name_EN;datatype:string,name:bf_visible;datatype:int,name:id_business_form;datatype:int,name:bf_sort;datatype:int" />
+</info>

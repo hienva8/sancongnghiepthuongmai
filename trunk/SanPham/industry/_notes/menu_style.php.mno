@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_StyleMenu" value="name:id_giaodien;datatype:int,name:ten_file;datatype:string,name:diachi_file;datatype:string,name:style_macdinh;datatype:int,name:anhdaidien_style;datatype:string" />
+</info>

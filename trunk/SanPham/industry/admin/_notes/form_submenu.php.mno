@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_menu" value="name:id_menu;datatype:int,name:menu_name;datatype:string,name:menu_name_EN;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:menu_name;datatype:string,name:id_menu;datatype:int" />
+	<infoitem key="UD_rssubmenu" value="name:submenu_name;datatype:int,name:submenu_name_EN;datatype:int,name:id_menu;datatype:int,name:url;datatype:int,name:outlink;datatype:int,name:notes;datatype:int,name:notes_EN;datatype:int,name:target;datatype:int,name:position;datatype:int,name:visible;datatype:int,name:id_submenu;datatype:int" />
+</info>

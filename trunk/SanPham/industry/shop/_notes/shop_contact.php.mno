@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_contact_department" value="name:id_contact_department;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_rsinbox" value="name:inbox_recipient;datatype:int,name:box_contact_department;datatype:int,name:inbox_name_product;datatype:int,name:inbox_sender;datatype:int,name:inbox_email;datatype:int,name:inbox_address;datatype:int,name:inbox_tel;datatype:int,name:inbox_subject;datatype:int,name:inbox_content;datatype:int,name:inbox_day_update;datatype:int,name:id_inbox;datatype:int" />
+	<infoitem key="UD_rs_member" value="name:id_member;datatype:int,name:member_user;datatype:string" />
+	<infoitem key="UD_rs_company" value="name:company_name;datatype:string" />
+	<infoitem key="UD_rs_product" value="name:product_name;datatype:string" />
+	<infoitem key="UD_rs_sender" value="name:company_name;datatype:string,name:member_email;datatype:string,name:member_address;datatype:string,name:member_tell;datatype:string" />
+	<infoitem key="MM_css_include" value="../library/css/style_shop.css" />
+</info>

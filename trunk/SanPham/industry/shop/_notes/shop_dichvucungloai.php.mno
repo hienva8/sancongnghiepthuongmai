@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_products_cungloai" value="name:id_services;datatype:int,name:id_services_categories;datatype:int,name:id_member;datatype:int,name:title;datatype:string,name:image_illustrate;datatype:string,name:short_describe;datatype:string" />
+	<infoitem key="UD_rs_member" value="name:member_kind;datatype:string" />
+</info>

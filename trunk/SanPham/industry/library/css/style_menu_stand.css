@@ -1,0 +1,189 @@
+@charset "UTF-8";
+
+ul.dropdown,
+ul.dropdown li,
+ul.dropdown ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+ul.dropdown {
+ position: relative;
+ z-index: 597;
+ float: left;
+ border-left:1px solid #99CCFF;
+ border-right:1px solid #99CCFF;
+}
+ul.dropdown li {
+ line-height: 1.3em;
+ vertical-align: middle;
+ zoom: 1;
+}
+ul.dropdown li.hover,
+ul.dropdown li:hover {
+ position: relative;
+ z-index: 599;
+ cursor: default;
+}
+ul.dropdown ul {
+ visibility: hidden;
+ position: absolute;
+ top: 100%;
+ left: 0;
+ z-index: 598;
+ width: 100%;
+}
+ul.dropdown ul li {
+ float: none;
+}
+ul.dropdown li:hover > ul {
+ visibility: visible;
+}
+ul.dropdown-vertical {
+ width: 188px;
+}
+ul.dropdown-vertical li {
+ float: none;
+}
+ul.dropdown {
+ padding-bottom: 1px;
+ font: bold 13px/normal "Times New Roman";
+}
+	ul.dropdown li {
+	 padding: 4px 6px;
+	 color:#0063DC;
+	}
+	ul.dropdown li.divider {
+	 border-top:dotted 1px #99CCFF;
+	}
+	ul.dropdown li.hover,
+	ul.dropdown li:hover {
+	 color: #0063dc;
+	}
+	ul.dropdown a:link,
+	ul.dropdown a:visited	{
+	color: #003366;
+	text-decoration: none;
+}
+	ul.dropdown a:hover		{ color: #0063dc; text-decoration: underline; }
+	ul.dropdown a:active	{ color: #ff0084; }
+
+	/* -- level mark -- */
+
+	ul.dropdown ul {
+	 width: 150px;
+	 padding: 3px 6px;
+	 border-style: solid;
+	 border-width: 1px;
+	 border-color: #99CCFF;
+	 background-color: #fff;
+	 font:bold 13px/normal "Times New Roman";
+	}
+	ul.dropdown ul li {
+		float:none;		
+	}
+
+/* -- Components override -- */
+
+ul.dropdown-vertical ul {
+ top: 0;
+ left: 100%;
+}
+ul.dropdown-vertical *.dir { 
+ background: #FFF url(../../interface/nav-arrow-right.png) 170px 5.7px no-repeat;
+}
+
+ul.dropdown a {
+ display: block;
+ padding: 4px 6px;
+}
+ul.dropdown ul a {
+ padding: 4px 0;
+}
+/*-------------------------------------------------/
+ * @section		Base Style Override
+ */
+ul.dropdown li {
+ padding: 0;
+ border: none;
+}
+
+/*-------------------------------------------------/
+ *	@section	Custom Styles
+ */
+ul.dropdown li a,
+ul.dropdown *.dir {
+ border-style: solid;
+ border-width: 1px 1px 0;
+ border-color: #fff;
+}
+ul.dropdown ul li a,
+ul.dropdown ul *.dir {
+ border: none;
+}
+ul.dropdown-vertical li a,
+ul.dropdown-vertical *.dir {
+ border-width: 1px 0 1px 1px;
+}
+/*-------------------------------------------------/
+ * @section		Support Class `open` Usage
+ * @source		js, artificial
+ *
+ */
+ ul.dropdown li.hover *.open {
+ position: relative;
+ z-index: 600;
+ margin: -1px 0;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ zoom: 1;
+}
+ul.dropdown-vertical li.hover *.open {
+ margin: 0 -1px;
+ padding-top: 4px;
+ padding-bottom: 4px;
+ padding-left: 7px;
+}
+ul.dropdown-vertical ul li.hover *.open {
+ padding-right: 0;
+ padding-left: 0;
+}
+ul.dropdown ul li.hover *.open {
+ position: static;
+ z-index: 0;
+ float: none;
+ margin: 0;
+ padding-top: 4px;
+ padding-bottom: 4px;
+ border: none;
+}
+ul.dropdown-vertical li.hover a.open{
+ background-image:url(../../interface/nav-arrow-right-open.png);
+}
+	/* CSS2 clone */
+
+	ul.dropdown li:hover > *.dir {
+	 position: relative;
+	 z-index: 600;
+	 margin: -1px 0;
+	 padding-top: 5px;
+	 padding-bottom: 5px;
+	 border-color: #99CCFF;
+	 background-color:#FFF;
+	 color: #0063dc;
+	}	
+	ul.dropdown-vertical li:hover > *.dir {
+	 margin: 0 -1px;
+	 padding-top: 4px;
+	 padding-bottom: 4px;
+	 padding-left: 7px;
+	}	
+	ul.dropdown ul li:hover > *.dir {
+	 position: static;
+	 z-index: 0;
+	 float: none;
+	 margin: 0;
+	 padding-top: 4px;
+	 padding-bottom: 4px;
+	 border: none;
+	}	

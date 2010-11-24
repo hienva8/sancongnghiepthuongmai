@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_products" value="name:id_products;datatype:int,name:id_procat;datatype:int,name:id_member;datatype:int,name:product_name;datatype:string,name:product_name_EN;datatype:string,name:product_image_illustrate;datatype:string" />
+	<infoitem key="UD_rs_procat" value="name:procat_name;datatype:string,name:procat_name_EN;datatype:string" />
+	<infoitem key="UD_rs_member" value="name:member_kind;datatype:string" />
+</info>

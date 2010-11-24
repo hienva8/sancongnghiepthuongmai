@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="" />
+	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_rs_industry" value="name:id_industry;datatype:int,name:industry_name;datatype:string" />
+	<infoitem key="UD_rs_capital_revenue" value="name:id_capital_revenue;datatype:int,name:cr_content;datatype:string" />
+	<infoitem key="UD_rs_capital_revenue1" value="name:id_capital_revenue;datatype:int,name:cr_content;datatype:string" />
+	<infoitem key="UD_rs_import_export" value="name:id_import_export;datatype:int,name:content;datatype:string" />
+	<infoitem key="UD_rs_import_export1" value="name:id_import_export;datatype:int,name:content;datatype:string" />
+	<infoitem key="UD_rs_products" value="name:id_company;datatype:int,name:company_id_member;datatype:int,name:company_id_country;datatype:int,name:company_id_industry;datatype:int,name:company_name;datatype:string,name:company_logo;datatype:string,name:company_shortinfo;datatype:string,name:member_kind;datatype:string,name:country_name;datatype:string,name:country_image_illustrate;datatype:string,name:industry_name;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscontact_department" value="name:name;datatype:int,name:name_EN;datatype:int,name:email;datatype:int,name:tel;datatype:int,name:day_update;datatype:int,name:visible;datatype:int,name:id_contact_department;datatype:int" />
+</info>

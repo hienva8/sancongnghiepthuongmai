@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_R_search_theloai" value="name:tentheloai;datatype:string,name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:kiemduyet;datatype:int,name:ID_theloai;datatype:int" />
+</info>

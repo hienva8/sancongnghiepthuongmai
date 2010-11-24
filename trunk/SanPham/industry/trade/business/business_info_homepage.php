@@ -1,0 +1,10 @@
+<?php
+  		mxi_includes_start("business_info_industry.php");
+  		require(basename("business_info_industry.php"));
+  		mxi_includes_end();
+?> 
+<?php
+  mxi_includes_start("business_info_all.php");
+  require(basename("business_info_all.php"));
+  mxi_includes_end();
+?>

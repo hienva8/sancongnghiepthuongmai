@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_deletewishlist" value="name:id_sv;datatype:int,name:idmem_sv;datatype:int,name:recordid_sv;datatype:int,name:loaitin;datatype:string,name:ID_tintuc;datatype:int,name:trv;datatype:string,name:tt;datatype:string,name:ID_tintuc;datatype:int" />
+</info>

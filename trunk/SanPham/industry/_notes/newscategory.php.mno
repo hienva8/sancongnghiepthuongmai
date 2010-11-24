@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_R_newscategory" value="name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:tieudetin_EN;datatype:string,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:trichdantin_EN;datatype:blob,name:ID_theloai;datatype:int,name:kiemduyet;datatype:int,name:cotinnong;datatype:int,name:tentheloai;datatype:string,name:tentheloai_EN;datatype:string" />
+</info>

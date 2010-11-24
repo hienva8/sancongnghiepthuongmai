@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_question" value="name:id_question;datatype:int,name:question_title;datatype:string" />
+	<infoitem key="UD_rs_member" value="name:id_member;datatype:int,name:member_user;datatype:string" />
+</info>

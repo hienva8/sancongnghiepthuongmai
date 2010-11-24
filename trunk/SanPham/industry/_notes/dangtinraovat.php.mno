@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_theloaitinrao" value="name:ID_theloaitinrao;datatype:int,name:tentheloaitinrao;datatype:string" />
+	<infoitem key="UD_rs_theloaitin" value="name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string" />
+	<infoitem key="UD_rs_khuvucraovat" value="name:ID_khuvucraovat;datatype:int,name:tenkhuvuc;datatype:string" />
+	<infoitem key="UD_rstinraovat" value="name:tieudetin;datatype:int,name:ID_theloaitin;datatype:int,name:ID_khuvucraovat;datatype:int,name:noidungtin;datatype:int,name:ngaydangtin;datatype:int,name:ID_thanhvien;datatype:int,name:ID_tintuc;datatype:int" />
+</info>

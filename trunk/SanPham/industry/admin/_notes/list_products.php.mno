@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:procat_name;datatype:string,name:id_procat;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:prosubcat1_name;datatype:string,name:id_prosubcat1;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:prosubcat2_name;datatype:string,name:id_prosubcat2;datatype:int" />
+	<infoitem key="UD_Recordset4" value="name:prosubcat3_name;datatype:string,name:id_prosubcat3;datatype:int" />
+	<infoitem key="UD_Recordset5" value="name:country_name;datatype:string,name:id_country;datatype:int" />
+	<infoitem key="UD_Recordset6" value="name:member_user;datatype:string,name:id_member;datatype:int" />
+	<infoitem key="UD_Recordset7" value="name:rates_content;datatype:string,name:id_rates;datatype:int" />
+	<infoitem key="UD_rsproducts1" value="name:id_procat;datatype:string,name:id_prosubcat1;datatype:string,name:id_prosubcat2;datatype:string,name:id_prosubcat3;datatype:string,name:id_country;datatype:string,name:id_member;datatype:string,name:product_name;datatype:string,name:product_name_EN;datatype:string,name:product_short_describe;datatype:string,name:product_short_describe_EN;datatype:string,name:product_image_illustrate;datatype:string,name:product_reference_price;datatype:string,name:product_rates;datatype:string,name:product_unit;datatype:string,name:product_unit_EN;datatype:string,name:product_type;datatype:string,name:product_payment_methods_orther;datatype:string,name:product_payment_methods_orther_EN;datatype:string,name:product_showroom;datatype:int,name:product_day_update;datatype:datetime,name:product_visible;datatype:int,name:id_products;datatype:int" />
+</info>

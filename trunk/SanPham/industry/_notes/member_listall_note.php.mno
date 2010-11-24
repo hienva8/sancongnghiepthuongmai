@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_fd;datatype:int,name:name_fd;datatype:string" />
+	<infoitem key="UD_rsnote_nt1" value="name:idfd_nt;datatype:string,name:title_nt;datatype:string,name:postedon_nt;datatype:datetime,name:id_nt;datatype:int" />
+	<infoitem key="MM_css_include" value="includes/skins/mxkollection3.css" />
+</info>
