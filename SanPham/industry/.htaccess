@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^trang-chu.thc$  index.php [L]
+RewriteRule ^gioi-thieu.thc$ index.php?thc=gioithieu [L]

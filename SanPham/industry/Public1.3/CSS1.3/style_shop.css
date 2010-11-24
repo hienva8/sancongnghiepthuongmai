@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo{
+	width:100%;
+	float:left;
+	margin-top:7px;
+}
+.style_help_3{
+	padding:7px 0px 5px 0px;
+	color:#FF0000;
+	font:12px tahoma;
+}
+.com_1,#end{
+	width:731px;
+}
+.com_1{
+	height:120px;
+}
+#logo-com{
+	float:left;
+	width:120px;
+	height:100px;
+}
+#logo-com img{
+	width:81px;
+	height:81px;
+	padding:5px;
+	border:1px solid #999999;
+}
+#com-2{
+	float:left;
+	width:610px;
+	height:100px;
+}
+#com-2 h1{
+	color: #FF6600;
+	font:20px "Times New Roman";
+	padding-bottom:7px;
+}
+#com-2 label{
+	color:#000000;
+	font:12px arial;
+}
+
+#end img{
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.cates-gen{
+	clear:left;
+}
+.showcase{
+	width:731px;
+	margin-top:7px;
+}
+.showcase .cls_2{
+	clear:left;
+	border-bottom:1.9px dotted #99CCFF;
+	height:1px;
+}
+.f-more{
+	margin-bottom:40px;
+}
+.showcase .f-more a{
+	text-decoration:none;
+	color:#006699;
+	font:13px tamaho;
+	padding-left:655px;
+	line-height:15px;
+}
+.showcase .f-more a:hover{
+	text-decoration:underline;
+	color:#FF9900;
+}
+
+.showcase h1{
+	background:url(../Interface/khung_8.jpg) no-repeat;
+	color:#FFFFFF;
+	font-size:13px;
+	font-weight:900;
+	line-height:25px;
+	padding-left:47px;
+}
+/* sẽ thay bằng div khi có csdl*/
+.cates-gen fieldset{
+	border:1px solid #99CCFF;
+}
+.showcase table{
+	width:100%;
+}
+.showcase td{
+	width:178px;
+	
+}
+.showcase td:hover{
+	background-color:#F8F8F8;
+
+}
+.showcase td img{
+	border:1px solid #999999;
+	margin-top:7px;
+	margin-left:37px;
+}
+.showcase td a h2{
+	color:#000000;
+	font:normal 11px "Tahoma";
+	text-decoration:underline;
+	padding-left:25px;
+	padding-bottom:15px;
+	padding-top:5px;
+}
+.showcase td a:hover h2{
+	color:#FF9900;
+	text-decoration:underline;
+}
+.cates-gen fieldset td a,.cates-gen .number-1{
+	font:12px tahoma;
+	color:#000000;
+	text-decoration:none;
+	height:25px;
+	line-height:25px;
+	padding-left:4px;
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_contact_department" value="name:id_contact_department;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:name;datatype:string,name:id_contact_department;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:position_name;datatype:string,name:id_position;datatype:int" />
+	<infoitem key="UD_rs_position" value="name:id_position;datatype:int,name:position_name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:company_name;datatype:string,name:id_company;datatype:int" />
+</info>

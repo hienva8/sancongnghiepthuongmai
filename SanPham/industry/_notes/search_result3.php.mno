@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_R_search_theloaitin" value="name:tieudetin;datatype:string,name:ID_tintuc;datatype:int,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:kiemduyet;datatype:int,name:cotinnong;datatype:int,name:tentheloai;datatype:string,name:ID_theloai;datatype:int,name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string" />
+	<infoitem key="UD_R_search_theloaitincon" value="name:tieudetin;datatype:string,name:ID_tintuc;datatype:int,name:ngaydangtin;datatype:datetime,name:hinhtrichdan;datatype:string,name:trichdantin;datatype:blob,name:kiemduyet;datatype:int,name:tentheloai;datatype:string,name:ID_theloai;datatype:int,name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string,name:ID_theloaitincon;datatype:int,name:tentheloaitincon;datatype:string" />
+</info>

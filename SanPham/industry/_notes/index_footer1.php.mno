@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="" />
+	<infoitem key="UD_rs_footer_dtd" value="name:ID_footer;datatype:int,name:noidung;datatype:blob,name:noidung_EN;datatype:blob,name:vitri;datatype:int" />
+	<infoitem key="UD_rs_footer_sh" value="name:ID_footer;datatype:int,name:noidung;datatype:blob,name:noidung_EN;datatype:blob,name:vitri;datatype:int" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="" />
+	<infoitem key="UD_master1procat" value="name:id_procat;datatype:int,name:procat_name;datatype:string,name:procat_name_EN;datatype:string,name:url;datatype:string,name:notes;datatype:string,name:notes_EN;datatype:string,name:day_update;datatype:datetime,name:sort;datatype:int,name:visible;datatype:int" />
+	<infoitem key="UD_detail2products" value="name:id_products;datatype:int,name:id_member;datatype:int" />
+	<infoitem key="UD_rs_member" value="name:id_member;datatype:int" />
+	<infoitem key="UD_rs_supportonline" value="name:humanname_help;datatype:string,name:humansex_help;datatype:string,name:tel;datatype:string,name:nickname;datatype:string,name:status;datatype:string" />
+</info>

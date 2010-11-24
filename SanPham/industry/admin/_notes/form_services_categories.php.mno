@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsservices_categories" value="name:svcat_name;datatype:int,name:svcat_name_EN;datatype:int,name:svcat_url;datatype:int,name:svcat_notes;datatype:int,name:svcat_notes_EN;datatype:int,name:svcat_day_update;datatype:int,name:svcat_visible;datatype:int,name:id_services_categories;datatype:int" />
+</info>

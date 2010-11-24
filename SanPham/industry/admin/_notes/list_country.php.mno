@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscountry1" value="name:country_name;datatype:string,name:country_name_EN;datatype:string,name:day_update;datatype:datetime,name:id_country;datatype:int,name:sort;datatype:int" />
+</info>

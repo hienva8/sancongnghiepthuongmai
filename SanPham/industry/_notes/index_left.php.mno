@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="css/TrangTri.css,includes/skins/mxkollection3.css,css/theme1.css,css/trangtri.css" />
+	<infoitem key="UD_Recordset1" value="name:tenbophanlienhe;datatype:string,name:emailbophanlienhe;datatype:string,name:dienthoai;datatype:string" />
+</info>

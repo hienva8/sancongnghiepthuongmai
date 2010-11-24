@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_supportonline" value="name:humanname_help;datatype:string,name:humansex_help;datatype:string,name:tel;datatype:string,name:nickname;datatype:string,name:status;datatype:string" />
+	<infoitem key="UD_rs_member_support" value="name:id_member;datatype:int,name:member_vip;datatype:int" />
+</info>

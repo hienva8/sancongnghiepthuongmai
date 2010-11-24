@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_wishlist" value="name:id_sv;datatype:int,name:idmem_sv;datatype:int,name:recordid_sv;datatype:int,name:ID_thanhvien;datatype:int,name:username;datatype:string,name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:ngaydangtin;datatype:datetime" />
+	<infoitem key="MM_css_include" value="css/TrangTri.css,css/theme1.css,css/trangtri.css" />
+</info>

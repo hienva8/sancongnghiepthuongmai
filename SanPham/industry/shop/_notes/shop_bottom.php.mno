@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs" value="name:company_name;datatype:string,name:company_name_EN;datatype:string,name:company_address;datatype:string,name:company_address_EN;datatype:string,name:company_tell;datatype:string,name:company_email;datatype:string,name:company_fax;datatype:string,name:company_website;datatype:string" />
+	<infoitem key="UD_rs_company_company" value="name:company_name;datatype:string,name:company_name_EN;datatype:string,name:company_address;datatype:string,name:company_address_EN;datatype:string,name:company_tell;datatype:string,name:company_email;datatype:string,name:company_fax;datatype:string,name:company_website;datatype:string" />
+	<infoitem key="UD_rs_company" value="name:company_name;datatype:string,name:company_name_EN;datatype:string,name:company_address;datatype:string,name:company_address_EN;datatype:string,name:company_tell;datatype:string,name:company_email;datatype:string,name:company_fax;datatype:string,name:company_website;datatype:string" />
+</info>

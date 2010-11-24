@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="css/TrangTri.css,css/trangtri.css,includes/skins/mxkollection3.css,css/Trangtri.css,css/single_six.css,css/theme.css,css/theme1.css,css/theme2.css" />
+	<infoitem key="UD_R_theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:sapxep;datatype:int,name:visible;datatype:int,name:linkngoai;datatype:int" />
+	<infoitem key="UD_r_theloaitin" value="name:ID_theloaitin;datatype:int,name:tentheloaitin;datatype:string,name:sapxep;datatype:int,name:ID_theloai;datatype:int,name:linkngoai;datatype:int" />
+	<infoitem key="UD_rs_theloaitincon" value="name:ID_theloaitincon;datatype:int,name:tentheloaitincon;datatype:string,name:ID_theloai;datatype:int,name:ID_theloaitin;datatype:int,name:tentheloaitincon_EN;datatype:string" />
+	<infoitem key="UD_rs_theloai" value="name:ID_theloai;datatype:int,name:tentheloai;datatype:string,name:url;datatype:string,name:tip;datatype:string,name:linkngoai;datatype:int,name:imagead;datatype:string,name:vitri;datatype:int" />
+	<infoitem key="UD_rs_StyleMenu" value="name:id_giaodien;datatype:int,name:ten_file;datatype:string,name:diachi_file;datatype:string,name:style_macdinh;datatype:int,name:anhdaidien_style;datatype:string,name:sapxep;datatype:int" />
+	<infoitem key="UD_quangcao_left" value="name:id_ad;datatype:int,name:descr_ad;datatype:blob,name:file_ad;datatype:string,name:url_ad;datatype:string,name:width_ad;datatype:string,name:height_ad;datatype:string,name:visible_ad;datatype:int,name:fileflash_ad;datatype:string,name:target_ad;datatype:string" />
+	<infoitem key="UD_quangcao_right" value="name:id_ad;datatype:int,name:descr_ad;datatype:blob,name:file_ad;datatype:string,name:url_ad;datatype:string,name:width_ad;datatype:string,name:height_ad;datatype:string,name:visible_ad;datatype:int,name:fileflash_ad;datatype:string,name:target_ad;datatype:string" />
+</info>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_procat" value="name:id_procat;datatype:int,name:procat_name_EN;datatype:string" />
+	<infoitem key="UD_rs_rates" value="name:id_rates;datatype:int,name:rates_content;datatype:string" />
+	<infoitem key="UD_rs_prosubcat1" value="name:id_prosubcat1;datatype:int,name:id_procat;datatype:int,name:prosubcat1_name_EN;datatype:string" />
+	<infoitem key="UD_rs_prosubcat2" value="name:id_prosubcat2;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:prosubcat2_name_EN;datatype:string" />
+	<infoitem key="UD_rs_prosubcat3" value="name:id_prosubcat3;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:id_prosubcat2;datatype:int,name:prosubcat3_name_EN;datatype:string" />
+	<infoitem key="UD_rs_country" value="name:id_country;datatype:int,name:country_name_EN;datatype:string" />
+	<infoitem key="UD_rsproducts" value="name:product_name_EN;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int,name:id_prosubcat2;datatype:int,name:id_prosubcat3;datatype:int,name:id_country;datatype:int,name:product_image_illustrate;datatype:int,name:product_short_describe_EN;datatype:int,name:product_content_EN;datatype:int,name:product_reference_price;datatype:int,name:product_rates;datatype:int,name:product_unit_EN;datatype:int,name:product_type;datatype:int,name:product_payment_methods_orther_EN;datatype:int,name:product_day_update;datatype:int,name:product_visible;datatype:int,name:product_showroom;datatype:int,name:id_member;datatype:int,name:id_products;datatype:int" />
+	<infoitem key="UD_rspayment_methods" value="name:id_payment_methods;datatype:int,name:methods_name;datatype:string,name:id_products;datatype:int" />
+	<infoitem key="UD_rs_member" value="name:id_member;datatype:int,name:member_user;datatype:string" />
+	<infoitem key="MM_css_include" value="../includes/skins/mxkollection3.css" />
+</info>

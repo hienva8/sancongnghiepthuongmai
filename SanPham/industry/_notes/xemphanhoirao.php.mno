@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_xemphanhoirao" value="name:ID_comment;datatype:int,name:noidung;datatype:blob,name:ngaydang;datatype:datetime,name:ID_thanhvien;datatype:int,name:username;datatype:string" />
+</info>

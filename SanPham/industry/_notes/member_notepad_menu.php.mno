@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_Folders" value="name:count_id_nt_1;datatype:int,name:id_fd;datatype:int,name:name_fd;datatype:string,name:update_day;datatype:datetime,name:idmem_fd;datatype:int" />
+</info>

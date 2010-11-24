@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="css/Trangtri.css,css/theme1.css,css/Tianyon.css,css/MenuTab.css" />
+	<infoitem key="UD_R_tinmoicapnhat" value="name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int,name:ID_theloaitincon;datatype:int,name:cotinmoi;datatype:int,name:cotinnong;datatype:int" />
+	<infoitem key="UD_R_tindocnhieu" value="name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:hinhtrichdan;datatype:string,name:ID_theloaitin;datatype:int,name:ID_theloai;datatype:int,name:ID_theloaitincon;datatype:int,name:cotinnong;datatype:int,name:cotinmoi;datatype:int" />
+	<infoitem key="UD_R_tinnong" value="name:ID_tintuc;datatype:int,name:tieudetin;datatype:string,name:ngaydangtin;datatype:datetime,name:ID_theloaitin;datatype:int" />
+</info>

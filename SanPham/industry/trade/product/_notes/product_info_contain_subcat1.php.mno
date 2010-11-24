@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_master1prosubcat1" value="name:id_prosubcat1;datatype:int,name:id_procat;datatype:int,name:prosubcat1_name;datatype:string,name:prosubcat1_name_EN;datatype:string,name:url;datatype:string,name:notes;datatype:string,name:notes_EN;datatype:string,name:day_update;datatype:datetime,name:sort;datatype:int,name:visible;datatype:int" />
+	<infoitem key="UD_rs_prosubcat" value="name:id_prosubcat1;datatype:int,name:id_procat;datatype:int,name:prosubcat1_name;datatype:string,name:prosubcat1_name_EN;datatype:string" />
+	<infoitem key="UD_master1procat" value="name:id_procat;datatype:int,name:procat_name;datatype:string,name:procat_name_EN;datatype:string,name:url;datatype:string,name:notes;datatype:string,name:notes_EN;datatype:string,name:day_update;datatype:datetime,name:sort;datatype:int,name:visible;datatype:int" />
+	<infoitem key="UD_rs_procat" value="name:id_procat;datatype:int,name:procat_name;datatype:string,name:procat_name_EN;datatype:string" />
+	<infoitem key="UD_detail2products" value="name:id_products;datatype:int,name:id_procat;datatype:int,name:id_prosubcat1;datatype:int" />
+	<infoitem key="UD_rs_prosubcat1" value="name:id_prosubcat1;datatype:int,name:id_procat;datatype:int,name:prosubcat1_name;datatype:string,name:prosubcat1_name_EN;datatype:string" />
+	<infoitem key="UD_rs_products" value="name:id_products;datatype:int" />
+</info>

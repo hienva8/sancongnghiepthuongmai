@@ -1,0 +1,66 @@
+.arrowsidemenu{
+	width: 218px; /*width of menu*/
+	/*border-style: solid none none none;
+	border-color: #94AA74;
+	border-size: 1px;
+	border-width: 1px; */
+}
+	
+.arrowsidemenu div a{ /*header bar links*/
+	font-family: arial;
+	font-size:12px !important;
+	display: block;
+	/*background: transparent url(menu/arrowgreen.gif) 100% 0; */
+    height: 15px; /*Set to height of bg image-padding within link (ie: 32px - 4px - 4px)*/
+	padding: 4px 0 4px 10px;
+	line-height: 15px; /*Set line-height of bg image-padding within link (ie: 32px - 4px - 4px)*/
+	text-decoration: none;
+
+	border-color:#CCCCCC;
+	border-size: 1px;
+	border-width: 1px;
+}
+	
+.arrowsidemenu div a:link, .arrowsidemenu div a:visited{
+	color: #26370A;
+}
+
+.arrowsidemenu div a:hover{
+	background-position: 100% -32px;
+	background:#F7F7F7;
+}
+.arrowsidemenu div.unselected a{ /*header that's currently not selected*/
+	color: #6F3700;
+}
+
+	
+.arrowsidemenu div.selected a{ /*header that's currently selected*/
+	color: blue;
+	background-position: 100% -64px !important;
+}
+
+.arrowsidemenu ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.arrowsidemenu ul li{
+	border-bottom:none;
+}
+
+
+.arrowsidemenu ul li a{ /*sub menu links*/
+	display: block;
+	height:15px;
+	font: normal 12px Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	color: black;
+	padding: 5px 0;
+	padding-left: 10px;
+	border-left: 10px none #E4F3FC;
+}
+
+.arrowsidemenu ul li a:hover{
+	text-decoration:underline;
+}
